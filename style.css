@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
 
 :root {
-    --textColor: rgb(208, 56, 56);
+    --textColor: rgb #00263E;
     --font: 'Karla', sans-serif;
 }
 
@@ -61,7 +61,7 @@ a {
     /*LINKS BORDER:*/
     border: 1px solid;
     border-radius: px;
-    background-color: rgb(2, 29, 110);
+    background-color: #00263E;
 
     display: block; /*each link takes a whole line*/
     margin: 10px;
